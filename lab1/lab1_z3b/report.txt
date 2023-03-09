@@ -1,0 +1,205 @@
+Static:
+Zainicjownao strukture o rozmiarze: 100
+Czasy wykonania:
+Rzeczywisty: 17075 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: main.c
+Czasy wykonania:
+Rzeczywisty: 30876177 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: mylib.c
+Czasy wykonania:
+Rzeczywisty: 5134544 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: mylib.h
+Czasy wykonania:
+Rzeczywisty: 6353781 nsec
+Użytkownik: 0
+Systemowy: 0
+
+ 116  348 3639
+Czasy wykonania:
+Rzeczywisty: 1702 nsec
+Użytkownik: 0
+Systemowy: 0
+
+  85  195 2327
+Czasy wykonania:
+Rzeczywisty: 1049 nsec
+Użytkownik: 0
+Systemowy: 0
+
+ 23  52 511
+Czasy wykonania:
+Rzeczywisty: 991 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 0
+Czasy wykonania:
+Rzeczywisty: 1347 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 1
+Czasy wykonania:
+Rzeczywisty: 1213 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 2
+Czasy wykonania:
+Rzeczywisty: 1148 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Zwolnienie pamięci
+Czasy wykonania:
+Rzeczywisty: 1089 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Shared:
+Zainicjownao strukture o rozmiarze: 100
+Czasy wykonania:
+Rzeczywisty: 22023 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: main.c
+Czasy wykonania:
+Rzeczywisty: 25113309 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: mylib.c
+Czasy wykonania:
+Rzeczywisty: 15320690 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: mylib.h
+Czasy wykonania:
+Rzeczywisty: 12450966 nsec
+Użytkownik: 0
+Systemowy: 0
+
+ 116  348 3639
+Czasy wykonania:
+Rzeczywisty: 2117 nsec
+Użytkownik: 0
+Systemowy: 0
+
+  85  195 2327
+Czasy wykonania:
+Rzeczywisty: 1068 nsec
+Użytkownik: 0
+Systemowy: 0
+
+ 23  52 511
+Czasy wykonania:
+Rzeczywisty: 1039 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 0
+Czasy wykonania:
+Rzeczywisty: 1383 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 1
+Czasy wykonania:
+Rzeczywisty: 24026 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 2
+Czasy wykonania:
+Rzeczywisty: 1235 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Zwolnienie pamięci
+Czasy wykonania:
+Rzeczywisty: 1143 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Dynamic:
+Zainicjownao strukture o rozmiarze: 100
+Czasy wykonania:
+Rzeczywisty: 17281 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: main.c
+Czasy wykonania:
+Rzeczywisty: 28282392 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: mylib.c
+Czasy wykonania:
+Rzeczywisty: 19409056 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Wczytano plik: mylib.h
+Czasy wykonania:
+Rzeczywisty: 4327979 nsec
+Użytkownik: 0
+Systemowy: 0
+
+ 116  348 3639
+Czasy wykonania:
+Rzeczywisty: 1536 nsec
+Użytkownik: 0
+Systemowy: 0
+
+  85  195 2327
+Czasy wykonania:
+Rzeczywisty: 1078 nsec
+Użytkownik: 0
+Systemowy: 0
+
+ 23  52 511
+Czasy wykonania:
+Rzeczywisty: 1056 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 0
+Czasy wykonania:
+Rzeczywisty: 1371 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 1
+Czasy wykonania:
+Rzeczywisty: 1220 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Usunięto index: 2
+Czasy wykonania:
+Rzeczywisty: 1171 nsec
+Użytkownik: 0
+Systemowy: 0
+
+Zwolnienie pamięci
+Czasy wykonania:
+Rzeczywisty: 1076 nsec
+Użytkownik: 0
+Systemowy: 0
+
+
+Możemy zauważyć, iż bilbioteki w każdym wariancie bardzo szybko się wykonują. Na danych
+wykorzystywanych w moich testach najlepiej wypadają biblioteki statyczne, jednak różnica ta
+jest nie wykrywalna dla ludzkiego oka.
