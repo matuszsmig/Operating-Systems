@@ -1,0 +1,12 @@
+Używając open i read:
+Czasy wykonania:
+Rzeczywisty: 236695 nsec
+Użytkownik: 0 nsec
+Systemowy: 0 nsec
+
+
+Używając fopen i fread:
+Czasy wykonania:
+Rzeczywisty: 167464 nsec
+Użytkownik: 0 nsec
+Systemowy: 0 nsec

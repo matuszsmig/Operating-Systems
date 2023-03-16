@@ -1,0 +1,9 @@
+Czas czytając znak po znaku:
+Rzeczywisty: 17579708 nsec
+Użytkownik: 0 nsec
+Systemowy: 1 nsec
+
+Czas czytając blokami po 1024 znaków:
+Rzeczywisty: 237563 nsec
+Użytkownik: 0 nsec
+Systemowy: 0 nsec
