@@ -18,12 +18,13 @@ int main(int agrc, char *argv[]) {
                 exit(EXIT_SUCCESS);
             default:
                 printf("Jestem procesem %d, moim dzieckiem jest %d\n", getpid(), currentProces);
+                wait(NULL);
                 //exit(EXIT_SUCCESS);
         }
         runningProceses+=1;
     }
-    wait(NULL);
-    printf("\nJestem pocesem: %d\n", getpid());
+
+    printf("\nIlość procesów: %s\n", argv[1]);
 
     return 0;
 }
