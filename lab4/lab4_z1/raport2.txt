@@ -1,0 +1,3 @@
+Sygnały ignorowane (ignore) i blokowane (mask) nie są dziediczone, zarówno po wykonaiu forka oraz
+execa. Przypisanie handlera jest dziedziczone tylko w przypadku forka. Sygnał oczekujący (pending)
+jest dziedziczony zarówno w przypadku forka jak i execa.
