@@ -1,0 +1,4 @@
+Wynik: 3.141592 Długość: 0.000001, Ilość procesów: 100, Czas: 0 s
+Wynik: 3.141593 Długość: 0.000000, Ilość procesów: 1000, Czas: 0 s
+Wynik: 3.141592 Długość: 0.000000, Ilość procesów: 1000, Czas: 1 s
+Wynik: 3.141592 Długość: 0.000001, Ilość procesów: 500, Czas: 0 s
