@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mateusz/SysOpy/lab8/lab8_z1/cmake-build-debug"
+			"value" : "/home/mateusz/systemyop/Operating-Systems/lab9/lab9_z1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mateusz/SysOpy/lab8/lab8_z1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/mateusz/systemyop/Operating-Systems/lab9/lab9_z1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mateusz/SysOpy/lab8/lab8_z1"
+			"value" : "/home/mateusz/systemyop/Operating-Systems/lab9/lab9_z1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -715,7 +715,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "lab8_z1"
+			"value" : "lab9_z1"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1010,7 +1010,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "lab8_z1_BINARY_DIR",
+			"name" : "lab9_z1_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1019,10 +1019,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mateusz/SysOpy/lab8/lab8_z1/cmake-build-debug"
+			"value" : "/home/mateusz/systemyop/Operating-Systems/lab9/lab9_z1/cmake-build-debug"
 		},
 		{
-			"name" : "lab8_z1_IS_TOP_LEVEL",
+			"name" : "lab9_z1_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1034,7 +1034,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "lab8_z1_SOURCE_DIR",
+			"name" : "lab9_z1_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1043,7 +1043,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mateusz/SysOpy/lab8/lab8_z1"
+			"value" : "/home/mateusz/systemyop/Operating-Systems/lab9/lab9_z1"
 		}
 	],
 	"kind" : "cache",

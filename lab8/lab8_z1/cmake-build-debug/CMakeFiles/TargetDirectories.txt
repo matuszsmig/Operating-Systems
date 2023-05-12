@@ -1,3 +1,0 @@
-/home/mateusz/SysOpy/lab8/lab8_z1/cmake-build-debug/CMakeFiles/lab8_z1.dir
-/home/mateusz/SysOpy/lab8/lab8_z1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mateusz/SysOpy/lab8/lab8_z1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
